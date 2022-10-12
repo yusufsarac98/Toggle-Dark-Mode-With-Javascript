@@ -1,0 +1,14 @@
+.pageTitle{
+    text-align: center;
+    margin-top:5%;
+}
+
+#toggleDark{
+    position: absolute;
+    right: 10%;
+}
+
+#toggleEye{
+    position: absolute;
+    right: 12%;
+}
